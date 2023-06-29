@@ -1,4 +1,4 @@
-### Course-Provider-Website
+# Course-Provider-Website
 This is an innovative online educational course provider website designed to offer a wide range of courses to learners of all ages and backgrounds. Our mission is to provide accessible and engaging educational resources that empower individuals to enhance their knowledge, skills, and personal growth.
 ## key features
 --> course catalog
