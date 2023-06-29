@@ -1,4 +1,4 @@
-## Course-Provider-Website
+### Course-Provider-Website
 This is an innovative online educational course provider website designed to offer a wide range of courses to learners of all ages and backgrounds. Our mission is to provide accessible and engaging educational resources that empower individuals to enhance their knowledge, skills, and personal growth.
 ## key features
 --> course catalog
@@ -30,7 +30,7 @@ EnlightenU fosters a sense of community and collaboration among learners. Discus
 ## Certificates of Completion:
 Upon successfully completing a course, users are awarded a digital certificate of completion, verifying their achievements. These certificates can be shared on professional platforms and serve as a testament to the skills acquired through EnlightenU.
 
-##Responsive and Intuitive Design:
+## Responsive and Intuitive Design:
 EnlightenU boasts a user-friendly interface that adapts seamlessly to different devices, ensuring a consistent learning experience across desktops, tablets, and mobile devices.
 
 Start your educational journey with EnlightenU and unlock a world of knowledge and personal growth. Join our vibrant community of learners today!
