@@ -13,14 +13,15 @@ This is an innovative online educational course provider website designed to off
 ## Course Catalog:
 Our website features a comprehensive course catalog that encompasses various subjects and disciplines. Users can browse through different categories, such as Science, Technology, Arts, Humanities, Business, and more. Each course is thoughtfully curated by subject matter experts and covers diverse skill levels, from beginner to advanced.
 
-## Course Selection: Users can select courses of their interest from the catalog. Courses are accompanied by detailed descriptions, learning objectives, and prerequisites (if any) to help users make informed decisions. Whether you want to learn a new programming language, delve into art history, explore sustainable practices, or improve your public speaking skills, has something for everyone
+## Course Selection:
+Users can select courses of their interest from the catalog. Courses are accompanied by detailed descriptions, learning objectives, and prerequisites (if any) to help users make informed decisions. Whether you want to learn a new programming language, delve into art history, explore sustainable practices, or improve your public speaking skills, has something for everyone
 
 ## Multimedia Learning Resources:
 Each course within incorporates a rich variety of learning materials to cater to different learning styles. These resources include:
 
 a. Course Notes: Comprehensive and well-structured course notes are provided for users to review and reinforce their understanding of the subject matter. These notes are available for download, allowing learners to access them offline whenever they need to refer back to specific concepts.
 
-b. Video Lessons: Engaging video lessons are an integral part of the learning experience on EnlightenU. Expert instructors deliver high-quality video content, breaking down complex topics into easily understandable segments. Users can stream or download videos, enabling flexible learning at their own pace
+b. Video Lessons: Engaging video lessons are an integral part of the learning experience on this website. Expert instructors deliver high-quality video content, breaking down complex topics into easily understandable segments. Users can stream or download videos, enabling flexible learning at their own pace
 Interactive Assessments: To gauge users' progress and reinforce learning, interactive quizzes and assessments are embedded within each course. These assessments provide instant feedback, allowing learners to identify areas of improvement and solidify their knowledge.
 
 ## User Progress Tracking:
