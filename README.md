@@ -34,7 +34,7 @@ This website fosters a sense of community and collaboration among learners. Disc
 Upon successfully completing a course, users are awarded a digital certificate of completion, verifying their achievements. These certificates can be shared on professional platforms and serve as a testament to the skills acquired through this website.
 
 ## Responsive and Intuitive Design:
-EnlightenU boasts a user-friendly interface that adapts seamlessly to different devices, ensuring a consistent learning experience across desktops, tablets, and mobile devices.
+This website boosts a user-friendly interface that adapts seamlessly to different devices, ensuring a consistent learning experience across desktops, tablets, and mobile devices.
 
 Start your educational journey with this website and unlock a world of knowledge and personal growth. Join our vibrant community of learners today!
 
