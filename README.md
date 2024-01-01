@@ -14,7 +14,7 @@ This is an innovative online educational course provider website designed to off
 Our website features a comprehensive course catalog that encompasses various subjects and disciplines. Users can browse through different categories, such as Science, Technology, Arts, Humanities, Business, and more. Each course is thoughtfully curated by subject matter experts and covers diverse skill levels, from beginner to advanced.
 
 ## Course Selection:
-Users can select courses of their interest from the catalog. Courses are accompanied by detailed descriptions, learning objectives, and prerequisites (if any) to help users make informed decisions. Whether you want to learn a new programming language, delve into art history, explore sustainable practices, or improve your public speaking skills, has something for everyone
+Users can select courses of their interest from the catalog. Courses are accompanied by detailed descriptions, learning objectives, and prerequisites (if any) to help users make informed decisions. Whether you want to learn a new programming language, delve into art history, explore sustainable practices, or improve your public speaking skills, has something for everyone.
 
 ## Multimedia Learning Resources:
 Each course within incorporates a rich variety of learning materials to cater to different learning styles. These resources include:
