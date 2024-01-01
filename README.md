@@ -31,7 +31,7 @@ This website provides a personalized learning experience by allowing users to tr
 This website fosters a sense of community and collaboration among learners. Discussion forums and dedicated course-specific chat rooms enable users to interact, seek clarifications, and share insights with fellow learners. Instructors are also available to answer questions and provide guidance throughout the learning process.
 
 ## Certificates of Completion:
-Upon successfully completing a course, users are awarded a digital certificate of completion, verifying their achievements. These certificates can be shared on professional platforms and serve as a testament to the skills acquired through this website.
+Upon completing a course, users are awarded a digital certificate of completion, verifying their achievements. These certificates can be shared on professional platforms and serve as a testament to the skills acquired through this website.
 
 ## Responsive and Intuitive Design:
 This website boosts a user-friendly interface that adapts seamlessly to different devices, ensuring a consistent learning experience across desktops, tablets, and mobile devices.
